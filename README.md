@@ -1,2 +1,2 @@
 # scriblr
-note taking app
+yet another note-taking app
